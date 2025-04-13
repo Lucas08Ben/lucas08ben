@@ -1,8 +1,55 @@
-<h3 align="left">About me</h3>
+## 👋 Hello there!
 
-###
+I'm a passionate **Backend Developer** and **DevOps Engineer** who enjoys building scalable systems, automating workflows, and solving real-world problems through clean code and robust infrastructure.
 
-<p align="left">- Backend Developer<br>- Data Processing<br>- DevOps<br>- Developing at Insightlab<br>- Freelancer</p>
+---
+
+### 🛠️ What I Work With
+
+#### **Backend Development**
+- Proficient in **Java (Spring Boot)** and **Python (FastAPI)**
+- Design and development of **RESTful APIs** and **microservices**
+- Data modeling and integration with **relational and non-relational databases** (e.g., PostgreSQL, MongoDB)
+- Development of **ETL pipelines** and **data processing flows**
+
+#### **DevOps & Infrastructure**
+- Strong experience with **AWS** services:
+  - EC2, RDS, S3, SES, Lambda, IAM, Glue, Athena, Step Functions, CloudWatch, EventBridge
+- Kubernetes orchestration and container management
+- CI/CD pipeline automation
+- Monitoring and logging best practices
+
+#### **Tools & Technologies**
+- Message brokers: **Kafka**
+- Workflow orchestration: **Apache Airflow**
+- Container registry: **Harbor**
+- Object storage: **MinIO**
+- Identity and Access Management: **Keycloak**
+- ML Lifecycle: **MLflow**
+- Documentation: **Docusaurus**
+- Delta Lake, PySpark, Redis, InfluxDB
+
+---
+
+### 🚀 Things I Enjoy Building
+
+- Scalable APIs and backend systems
+- Data processing pipelines and cloud-native solutions
+- Infrastructure automation and DevOps tooling
+- Dashboards and tools for data visualization and internal monitoring
+
+---
+
+### 📂 About This GitHub
+
+> ⚠️ Most of my work is hosted in private repositories due to company policies, so you won’t find many public projects here.  
+> However, I’m always open to sharing knowledge and collaborating on open-source or side projects.
+
+---
+
+### 📫 Let’s Connect
+
+If you're working on something exciting or just want to talk tech, feel free to reach out!
 
 ###
 
