@@ -17,6 +17,7 @@ I'm a passionate **Backend Developer** and **DevOps Engineer** who enjoys buildi
   - EC2, RDS, S3, SES, Lambda, IAM, Glue, Athena, Step Functions, CloudWatch, EventBridge
 - Kubernetes orchestration and container management
 - CI/CD pipeline automation
+  - Gitlab ci, Github actions, ArgoCD 
 - Monitoring and logging best practices
 
 #### **Tools & Technologies**
